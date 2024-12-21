@@ -1,6 +1,5 @@
 
 
-
 .boxes 
 {
   border: 0.1px solid;
@@ -53,4 +52,10 @@ img{
 h1{
     text-align: center;
     padding-top: 2cm;
+}
+.signup:hover{
+  transform:width 2s, height 2s;
+  background-color: rgb(255, 13, 0);
+  
+  border-color:black;
 }
