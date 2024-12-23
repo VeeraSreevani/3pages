@@ -35,9 +35,9 @@
 }
 .card-body:hover{ 
  transform:rotate(360deg);
- background-color: chartreuse;
- color:red;
- border-color:black;
+ background-color: rgb(24, 164, 174);
+ color:black;
+ border-color:pink;
 }
 
 body
@@ -54,6 +54,8 @@ h3{
     padding-top: .5cm;
     padding-bottom: .2cm;
     text-decoration: underline;
+    text-decoration-color: lightskyblue;
+    text-shadow: 5cm;
 }
 /* .signup:hover{
   transform:width 5s, height 10s;
@@ -73,4 +75,6 @@ h3{
 .link{
   margin-left: 5cm;
 }
-
+.vr{
+  width: 1px;
+}            
